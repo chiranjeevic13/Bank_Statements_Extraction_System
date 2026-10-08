@@ -1,0 +1,39 @@
+# ─────────────────────────────────────────────────────────────
+# Bank Statement Processing & Classification System
+# Python >= 3.11 required
+# ─────────────────────────────────────────────────────────────
+
+
+# ── PDF Extraction ────────────────────────────────────────────
+PyMuPDF==1.26.5                   # text-layer word extraction (fitz)
+
+
+# ── OCR Engines ───────────────────────────────────────────────
+paddlepaddle                      # PaddleOCR runtime (CPU build)
+paddleocr                         # PP-OCRv5 models; installs paddlepaddle if absent
+pytesseract==0.3.13               # Tesseract wrapper (fallback OCR)
+
+
+# ── Image Processing ──────────────────────────────────────────
+opencv-python-headless==5.0.0.93  # deskew, despeckle, adaptive threshold (no GUI)
+Pillow==11.3.0                    # image I/O used by pytesseract
+
+
+# ── Numerical & Data ──────────────────────────────────────────
+numpy==2.0.2                      # array ops; pinned to 2.x LTS
+pandas==2.3.3                     # DataFrame pipeline
+scipy==1.13.1                     # statistical utilities (anomaly detection)
+
+
+# ── Machine Learning ──────────────────────────────────────────
+scikit-learn==1.6.1               # TF-IDF + Logistic Regression classifier
+joblib==1.5.3                     # model persistence (classifier pickle)
+
+
+# ── UI & Visualisation ────────────────────────────────────────
+streamlit==1.50.0                 # web dashboard
+altair==5.5.0                     # declarative charts (balance trend, monthly bars)
+
+
+# ── Export ────────────────────────────────────────────────────
+openpyxl==3.1.5                   # Excel (.xlsx) export with styled sheets

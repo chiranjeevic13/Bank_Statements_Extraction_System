@@ -1,0 +1,19 @@
+__pycache__/
+.pytest_cache/
+.vscode/
+.streamlit/
+
+# Python environments
+.venv/
+venv/
+*.py[cod]
+
+# Local secrets
+.env
+.env.*
+!.env.example
+
+# Local processing output and user-trained classifier data
+/logs/
+/data/model.joblib
+/data/feedback.csv

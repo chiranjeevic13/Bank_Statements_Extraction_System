@@ -1,0 +1,132 @@
+Description,Direction,Category,Source
+UPI/123456789/SWIGGY ORDER,dr,Food & Dining,seed
+UPI/ZOMATO FOOD ORDER/987654,dr,Food & Dining,seed
+POS MCDONALD MUMBAI,dr,Food & Dining,seed
+KFC OUTLET BANGALORE,dr,Food & Dining,seed
+DOMINOS PIZZA ONLINE,dr,Food & Dining,seed
+STARBUCKS COFFEE,dr,Food & Dining,seed
+UPI/BIGBASKET GROCERY,dr,Groceries,seed
+BLINKIT GROCERY DELIVERY,dr,Groceries,seed
+ZEPTO INSTANT GROCERY,dr,Groceries,seed
+DMART RETAIL STORE,dr,Groceries,seed
+RELIANCE FRESH STORE,dr,Groceries,seed
+AMAZON PAY UPI,dr,Shopping,seed
+FLIPKART ONLINE ORDER,dr,Shopping,seed
+MYNTRA FASHION,dr,Shopping,seed
+AJIO ONLINE SHOPPING,dr,Shopping,seed
+CROMA ELECTRONICS,dr,Shopping,seed
+UPI/UBER INDIA/TRIP,dr,Transport & Fuel,seed
+OLA CABS PAYMENT,dr,Transport & Fuel,seed
+RAPIDO BIKE TAXI,dr,Transport & Fuel,seed
+HPCL FUEL STATION,dr,Transport & Fuel,seed
+BPCL PETROL PUMP,dr,Transport & Fuel,seed
+FASTAG RECHARGE NHAI,dr,Transport & Fuel,seed
+IRCTC TRAIN TICKET,dr,Travel,seed
+MAKEMYTRIP FLIGHT BOOKING,dr,Travel,seed
+INDIGO AIRLINES TICKET,dr,Travel,seed
+OYO ROOMS HOTEL,dr,Travel,seed
+REDBUS TICKET,dr,Travel,seed
+BESCOM ELECTRICITY BILL,dr,Utilities & Bills,seed
+MSEB ELECTRIC PAYMENT,dr,Utilities & Bills,seed
+TATA POWER BILL PAY,dr,Utilities & Bills,seed
+PIPED GAS BILL,dr,Utilities & Bills,seed
+BBPS WATER BILL,dr,Utilities & Bills,seed
+AIRTEL MOBILE RECHARGE,dr,Mobile & Internet,seed
+JIO RECHARGE,dr,Mobile & Internet,seed
+VODAFONE POSTPAID BILL,dr,Mobile & Internet,seed
+BSNL BROADBAND,dr,Mobile & Internet,seed
+ACT FIBERNET,dr,Mobile & Internet,seed
+NETFLIX SUBSCRIPTION,dr,Entertainment,seed
+SPOTIFY PREMIUM,dr,Entertainment,seed
+HOTSTAR SUBSCRIPTION,dr,Entertainment,seed
+PRIME VIDEO,dr,Entertainment,seed
+BOOKMYSHOW TICKETS,dr,Entertainment,seed
+APOLLO PHARMACY,dr,Healthcare,seed
+MEDPLUS MEDICINE,dr,Healthcare,seed
+NETMEDS ONLINE,dr,Healthcare,seed
+PRACTO CONSULTATION,dr,Healthcare,seed
+FORTIS HOSPITAL,dr,Healthcare,seed
+UDEMY COURSE,dr,Education,seed
+COURSERA ONLINE,dr,Education,seed
+SCHOOL FEE PAYMENT,dr,Education,seed
+COLLEGE TUITION FEE,dr,Education,seed
+BYJU SUBSCRIPTION,dr,Education,seed
+RENT PAYMENT,dr,Rent,seed
+NEFT TO LANDLORD,dr,Rent,seed
+NOBROKER RENT,dr,Rent,seed
+SALARY CREDIT,cr,Salary,seed
+PAYROLL CREDIT EMPLOYER,cr,Salary,seed
+MONTHLY SALARY TRANSFER,cr,Salary,seed
+INTEREST CREDIT SAVINGS,cr,Interest Income,seed
+INT PD SAVINGS ACCOUNT,cr,Interest Income,seed
+SAVINGS INTEREST CREDIT,cr,Interest Income,seed
+REFUND FROM AMAZON,cr,Refund / Reversal,seed
+CASHBACK CREDIT,cr,Refund / Reversal,seed
+REVERSAL OF CHARGES,cr,Refund / Reversal,seed
+ATM WITHDRAWAL,dr,Cash Withdrawal (ATM),seed
+ATM CASH NWD,dr,Cash Withdrawal (ATM),seed
+CASH WITHDRAWAL ATM,dr,Cash Withdrawal (ATM),seed
+CASH DEPOSIT CDM,cr,Cash Deposit,seed
+BY CASH DEPOSIT,cr,Cash Deposit,seed
+CASH DEPOSIT BRANCH,cr,Cash Deposit,seed
+SMS ALERT CHARGES,dr,Bank Charges & Fees,seed
+ANNUAL MAINTENANCE CHARGE,dr,Bank Charges & Fees,seed
+MINIMUM BALANCE PENALTY,dr,Bank Charges & Fees,seed
+IGST CHARGES,dr,Bank Charges & Fees,seed
+INCOME TAX PAYMENT,dr,Tax,seed
+TDS DEDUCTED,dr,Tax,seed
+CBDT TAX PAYMENT,dr,Tax,seed
+ADVANCE TAX,dr,Tax,seed
+HOME LOAN EMI,dr,EMI / Loan,seed
+PERSONAL LOAN EMI,dr,EMI / Loan,seed
+NACH EMI FINANCE,dr,EMI / Loan,seed
+LIC PREMIUM,dr,Insurance,seed
+HDFC LIFE INSURANCE,dr,Insurance,seed
+STAR HEALTH PREMIUM,dr,Insurance,seed
+ICICI PRUDENTIAL PREMIUM,dr,Insurance,seed
+ZERODHA TRADING,dr,Investments,seed
+GROWW MUTUAL FUND,dr,Investments,seed
+SIP DEBIT MUTUAL FUND,dr,Investments,seed
+NPS CONTRIBUTION,dr,Investments,seed
+NSDL DEMAT,dr,Investments,seed
+PAYTM UPI TRANSFER,dr,Wallet / UPI,seed
+PHONEPE PAYMENT,cr,Wallet / UPI,seed
+GPAY TRANSFER,dr,Wallet / UPI,seed
+SELF TRANSFER OWN ACCOUNT,dr,Self Transfer,seed
+TO SELF SAVINGS,cr,Self Transfer,seed
+CHEQUE CLEARING,dr,Cheque,seed
+CHQ RETURN,cr,Cheque,seed
+NEFT TRANSFER,dr,Transfers (Person),seed
+IMPS TRANSFER,cr,Transfers (Person),seed
+RTGS CREDIT,cr,Transfers (Person),seed
+UPI RECEIVED,cr,Transfers (Person),seed
+SWIGGY INSTAMART,dr,Groceries,seed
+ZEPTO GROCERY,dr,Groceries,seed
+AMAZON FRESH GROCERY,dr,Groceries,seed
+NYKAA COSMETICS,dr,Shopping,seed
+MEESHO ORDER,dr,Shopping,seed
+DECATHLON SPORTS,dr,Shopping,seed
+IKEA FURNITURE,dr,Shopping,seed
+GOIBIBO HOTEL,dr,Travel,seed
+CLEARTRIP FLIGHT,dr,Travel,seed
+VISTARA TICKET,dr,Travel,seed
+SPICEJET BOOKING,dr,Travel,seed
+1MG MEDICINE ORDER,dr,Healthcare,seed
+THYROCARE DIAGNOSTIC,dr,Healthcare,seed
+UNACADEMY SUBSCRIPTION,dr,Education,seed
+VEDANTU CLASSES,dr,Education,seed
+IGL GAS BILL,dr,Utilities & Bills,seed
+MAHANAGAR GAS,dr,Utilities & Bills,seed
+TATA PLAY RECHARGE,dr,Mobile & Internet,seed
+HATHWAY BROADBAND,dr,Mobile & Internet,seed
+LIC HOUSING LOAN EMI,dr,EMI / Loan,seed
+BAJAJ FINANCE EMI,dr,EMI / Loan,seed
+DIVIDEND CREDIT NSDL,cr,Dividend,seed
+DIVIDEND FROM COMPANY,cr,Dividend,seed
+SBI LIFE INSURANCE,dr,Insurance,seed
+MAX LIFE PREMIUM,dr,Insurance,seed
+KUVERA INVESTMENT,dr,Investments,seed
+INDMONEY PORTFOLIO,dr,Investments,seed
+MOBIKWIK WALLET,dr,Wallet / UPI,seed
+AMAZON PAY WALLET,dr,Wallet / UPI,seed
+CRED PAYMENT,dr,Wallet / UPI,seed
