@@ -4,6 +4,25 @@
 
 ---
 
+## 🎬 Demo
+
+[![Demo Video](https://img.shields.io/badge/▶_Watch_Demo-Google_Drive-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1qNGVEXwA_PGqcJXOAeE3lHLMlbmAS4ik/view?usp=drive_link)
+
+> Click the badge above to watch a full walkthrough — upload to dashboard to export.
+
+---
+
+## 📁 Sample Output
+
+The [`output/`](./output) folder contains ready-to-inspect results generated from the included sample statement:
+
+| File | Description |
+|---|---|
+| `bank_statement_analysis.xlsx` | Multi-sheet Excel workbook — Transactions, Category Summary, Monthly Summary, Account Info |
+| `bank_statement_data.csv` | Flat UTF-8 CSV of all extracted and classified transactions |
+
+---
+
 ## What It Does
 
 Upload one or more bank statement PDFs (text-based or scanned). The system automatically:

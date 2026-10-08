@@ -1,0 +1,7 @@
+﻿Date,Description,Ref,Debit,Credit,Balance,Flag,Page,Counterparty,Bank Name,Account Number,Source File,Category,Confidence,Method
+2026-10-05 00:00:00,UPI/SWIGGY/123456/FOOD,123456,350.0,,12150.0,,1,Swiggy,HDFC Bank,50100234567890,test_scanned_statement.pdf,Food & Dining,0.95,rule
+2026-10-12 00:00:00,NEFT—SALARY—ACME CORP,N102938,,45000.0,57150.0,,1,Neft—Salary—Acme Corp,HDFC Bank,50100234567890,test_scanned_statement.pdf,Salary,0.95,rule
+2026-10-15 00:00:00,ATM WDOL/MUMBAI,88374,5000.0,,52150.0,,1,Atm Wdol,HDFC Bank,50100234567890,test_scanned_statement.pdf,Cash Withdrawal (ATM),0.95,rule
+2026-10-18 00:00:00,UPI/AMAZON PAY/SHOPPING,992837,1200.0,,50950.0,,1,Amazon Pay,HDFC Bank,50100234567890,test_scanned_statement.pdf,Shopping,0.95,rule
+2026-10-22 00:00:00,ACH/NETFLIX RECURRING,77362,499.0,,50451.0,,1,Netflix Recurring,HDFC Bank,50100234567890,test_scanned_statement.pdf,Entertainment,0.95,rule
+2026-10-28 00:00:00,UPI/ZOMATO/FOOD,882736,451.0,,50000.0,,1,Zomato,HDFC Bank,50100234567890,test_scanned_statement.pdf,Food & Dining,0.95,rule
